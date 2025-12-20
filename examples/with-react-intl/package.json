@@ -11,7 +11,7 @@
     "i18n:compile": "formatjs compile-folder lang compiled-lang"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "15.5.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-intl": "6.1.1"

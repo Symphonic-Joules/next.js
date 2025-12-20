@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lost": "8.2.0",
-    "next": "latest",
+    "next": "15.5.8",
     "postcss-nested": "2.1.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

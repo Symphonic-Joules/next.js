@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@lingui/react": "^3.17.1",
-    "next": "latest",
+    "next": "15.5.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

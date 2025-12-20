@@ -11,7 +11,7 @@
     "start:worker.watch": "cross-env TS_NODE_PROJECT=\"temporal/tsconfig.json\" nodemon temporal/src/worker.ts"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "15.5.8",
     "node-fetch": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
