@@ -8,7 +8,7 @@
   "dependencies": {
     "@ably-labs/react-hooks": "^2.0.4",
     "ably": "^1.2.22",
-    "next": "latest",
+    "next": "15.5.8",
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },

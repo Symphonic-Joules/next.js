@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "knex": "0.95.15",
-    "next": "latest",
+    "next": "15.5.8",
     "@next/env": "latest",
     "pg": "8.4.1",
     "react": "^18.2.0",

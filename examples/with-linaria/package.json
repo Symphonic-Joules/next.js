@@ -8,7 +8,7 @@
   "dependencies": {
     "@linaria/core": "^6.2.0",
     "@linaria/react": "^6.2.1",
-    "next": "latest",
+    "next": "15.5.8",
     "next-linaria": "1.0.1-beta",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"

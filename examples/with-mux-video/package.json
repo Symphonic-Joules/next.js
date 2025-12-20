@@ -9,7 +9,7 @@
     "@mux/mux-node": "^8",
     "@mux/mux-player-react": "^2",
     "@mux/mux-uploader-react": "^1.0.0-beta.15",
-    "next": "latest",
+    "next": "15.5.8",
     "react": "^18",
     "react-dom": "^18",
     "swr": "^2.0.0"
